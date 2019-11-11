@@ -1,21 +1,8 @@
 ﻿body{
 
 }
+<marquee  direction="right" bgcolor="blue"  onmouseover="this.stop();" onmouseout="this.start();">
 
-.zoomeffect img{
--webkit-transform:scale(0.8);
--moz-transform:scale(0.8);
--o-transform:scale(0.8);
--webkit-transition-duration: 0.5s;
--moz-transition-duration: 0.5s;
--o-transition-duration: 0.5s;
-opacity: 0.7;
-margin: 0 10px 5px 0;
-}
+<img src="http://friendss.net/wp-content/uploads/2018/04/3494-1.jpg" />
 
-.zoomeffect img:hover{
--webkit-transform:scale(1.1);
--moz-transform:scale(1.1);
--o-transform:scale(1.1);
-opacity: 1;
-}
+خبر 1    خبر 2    خبر 3   خبر 4</marquee>

@@ -1,8 +1,8 @@
 ﻿body{
 
-}
+
 <marquee  direction="right" bgcolor="blue"  onmouseover="this.stop();" onmouseout="this.start();">
 
 <img src="http://friendss.net/wp-content/uploads/2018/04/3494-1.jpg" />
 
-خبر 1    خبر 2    خبر 3   خبر 4</marquee>
+خبر 1    خبر 2    خبر 3   خبر 4</marquee>}
